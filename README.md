@@ -1,2 +1,2 @@
 # Food-Serendipity
-food restaurant frontend 
+food restaurant frontend website 
